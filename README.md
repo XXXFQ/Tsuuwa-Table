@@ -1,3 +1,3 @@
 # 通話表コンバーター
 
-https://tsuuwa-table-sfkbq5dtftwpewwrxpcwyn.streamlit.app/
+**和文通話表**と**NATO フォネティックコード**をワンクリックで切り替え、入力した文字列を即座に読み替えてくれるアプリです。
